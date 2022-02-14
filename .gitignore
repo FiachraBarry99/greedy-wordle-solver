@@ -1,0 +1,7 @@
+build/
+dist/
+venv/
+*.spec
+tests.ipynb
+.DS_Store
+*.csv
